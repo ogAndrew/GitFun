@@ -1,2 +1,3 @@
-Hey it's a new edit!!
-I'm learning how to rebase my code!!!
+This is an edit of file1.  
+I made 2nd line here too! 
+Hey it's a new edit!!I'm learning how to rebase my code!!!
